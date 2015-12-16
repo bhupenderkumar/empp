@@ -1,0 +1,160 @@
+body{
+	width:800px;
+	margin: 0 auto;
+}
+
+header, footer{
+	text-align:center;
+	background: -webkit-linear-gradient(left, blue, #00bfff, cyan);
+	padding-top: 1px;
+}
+
+header h1{
+	font-family: georgia;
+	text-shadow: 5px 5px 5px black;
+	color:white;
+	}
+	footer{
+	  margin-top: 10px;
+	}
+section{
+	clear:both;
+	height: 800px;
+}
+
+section table{
+	
+	border-spacing: 0px;
+}
+section table tr td{
+	
+	padding: 10px;
+	
+}
+section #tbl1{
+	width: 500px;
+	margin: 0 auto;
+}
+#link {
+	width:400px;
+	margin: 0 auto;
+	margin-right:500px;
+}
+section #tbl1 tr:nth-child(odd){
+	background-color: #0080ff;
+	color:white;
+}
+section #tbl1 tr:nth-child(even){
+	background-color: #f0faff;
+	color:black;
+}
+#link tr td {	
+	margin: 0 auto;
+	margin-right:15px;
+	margin-left:20px;
+}
+#link tr td input {
+	
+	
+	margin-left:300px;
+}
+#link tr td input{
+	
+	
+	margin-left:35px;
+}
+#link tr td{
+	
+	length:100px;
+	width:100px;
+}
+#tbl1 img{
+	height: 50px;
+	width:75px;
+}
+
+section h2{
+	text-align: center;
+}
+
+#link{
+	background-color: cyan;
+	width: 400px;
+	margin: 0 auto;
+	
+}
+
+#link a {
+	-webkit-border-radius: 5px;
+	-webkit-box-shadow: 5px 5px 5px black;
+	background-color: #00bfff;
+	color:blue;
+	text-decoration: none;
+	padding: 5px;
+	line-height: 50px;
+}
+#head a {
+	margin-right:6px;
+	-webkit-border-radius: 5px;
+	-webkit-box-shadow: 5px 5px 5px black;
+	background-color: #00bfff;
+	color:blue;
+	text-decoration: none;
+	padding: 5px;
+	line-height: 50px;
+}
+header a {
+	margin-right:6px;
+	-webkit-border-radius: 5px;
+	-webkit-box-shadow: 5px 5px 5px black;
+	background-color: #00bfff;
+	color:blue;
+	text-decoration: none;
+	padding: 5px;
+	line-height: 50px;
+}
+#link a:hover {
+	
+	background-color: red;
+	color:white;
+	text-decoration: underline;
+	
+}
+
+#head a:hover {
+	
+	background-color: red;
+	color:white;
+	text-decoration: underline;
+	
+}
+header a:hover {
+	
+	background-color: red;
+	color:white;
+	text-decoration: underline;
+	
+}
+
+#frm1
+{
+	width:400px;
+	margin: 0 auto;
+}
+.err
+{
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 

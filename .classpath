@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/ant-contrib-1.0b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/ehcache-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/ivy-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/maven-ant-tasks.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/mysql-connector-java-3.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/hiblib/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-client-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-client-1.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-core-1.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-json-1.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-server-1.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jersey-servlet-1.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xitatest1/Desktop/WebService/RestService/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
